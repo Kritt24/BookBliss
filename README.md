@@ -31,10 +31,10 @@ Build a simple library management page where <br>
 
 
  # Screenshots
- ![Home Page1]![alt text](<Screenshot 2025-04-26 at 2.38.03 PM.png>)<br>
-![Home Page2]![alt text](<Screenshot 2025-04-26 at 2.38.17 PM.png>)<br>
-![Login ]![alt text](<Screenshot 2025-04-26 at 2.38.45 PM.png>)<br>
-![My books]![alt text](<Screenshot 2025-04-26 at 3.36.59 PM.png>)<br>
+ ![Home Page1]![image](https://github.com/user-attachments/assets/c600e218-5c21-44c8-9781-37ab96a4b4da)<br>
+![Home Page2]![image](https://github.com/user-attachments/assets/dc299a30-1899-4545-94e7-8424e53b8e29)<br>
+![Login]<img width="1440" alt="Screenshot 2025-04-26 at 2 38 45 PM" src="https://github.com/user-attachments/assets/e3b469f1-26de-450b-8cfc-23e4c328670e" /><br>
+![My books]![image](https://github.com/user-attachments/assets/2c37a720-1e5b-496b-9737-a973048fdeb7)<br>
 
   
   
